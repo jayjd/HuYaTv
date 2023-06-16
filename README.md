@@ -6,7 +6,7 @@
 # QQ反馈交流群
 QQ频道🔗 **[点击加入](https://pd.qq.com/s/ajih400ke)** 
 
-下载地址🔗 **[下载地址](https://hub.gitmirror.com/https://github.com/jayjd/HuYaTv/releases/download/1.0.11/HuYa-1.0.11-20230526.apk)**
+下载地址🔗 **[下载地址](https://github.com/jayjd/huyatv/releases/latest)**
 
 ![微信图片_20230531082441](https://github.com/jayjd/HuYaTv/assets/15134709/85d61c64-4e72-443e-96ee-e6f7d6551e87)
 

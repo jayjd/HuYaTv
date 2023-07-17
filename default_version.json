@@ -1,7 +1,7 @@
 {
-    "versionName": "1.0.24",
-    "download": "https://github.com/jayjd/HuYaTv/releases/download/1.0.24/HuYa-1.0.24-20230714.apk",
-    "versionCode": 24,
+    "versionName": "1.0.25",
+    "download": "https://github.com/jayjd/HuYaTv/releases/download/1.0.25/HuYa-1.0.25-20230717.apk",
+    "versionCode": 25,
     "entity":"c4BdJ+OTVMWjJ9aG/4grbZ7wNhkwp5IPAjaLj4OB7hbQOgYHie58ycHjHOujFptgq3brXxuPw//EcZdg0aZfHqe3NW6l3Z3SmLPKWVItdl/1YZh5xeS6tDE6fLd2Fky+QhTS4q7QNO1gAUjh9FH3kYxQhwMl3v4sdEWua3vjtmGARzpsnewaXOJ/cUNM6KGXq+ZHSB5RkAZQvAmMJhgB7SOwIMIQA/6o",
-    "info":"更新日志：\n1.主导航栏加入我的和首页\n2.首页布局重新设计\n3.播放页增加弹幕的大小、透明度和行数设置\n4.优化 安卓4.4无法在线更新的问题"
+    "info":"更新日志：\n1.播放页 增加SurfaceView和TextureView视频渲染\n使用技巧\n首页【菜单键】可以启动搜索界面\n播放页【下键】可以打开弹幕开关、清晰度和解码切换\n播放页【菜单键】可以配置弹幕的大小、透明度和弹幕行数"
 }

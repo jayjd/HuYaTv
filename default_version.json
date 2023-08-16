@@ -1,9 +1,9 @@
 {
-    "versionName": "1.0.26",
-    "download": "https://github.com/jayjd/HuYaTv/releases/download/1.0.26/HuYa-1.0.26-20230801.apk",
-    "versionCode": 26,
+    "versionName": "1.0.27",
+    "download": "https://github.com/jayjd/HuYaTv/releases/download/1.0.27/HuYa-1.0.27-20230816.apk",
+    "versionCode": 27,
     "entity":"c4BdJ+OTVMWjJ9aG/4grbZ7wNhkwp5IPAjaLj4OB7hbQOgYHie58ycHjHOujFptgq3brXxuPw//EcZdg0aZfHqe3NW6l3Z3SmLPKWVItdl/1YZh5xeS6tDE6fLd2Fky+QhTS4q7QNO1gAUjh9FH3kYxQhwMl3v4sdEWua3vjtmGARzpsnewaXOJ/cUNM6KGXq+ZHSB5RkAZQvAmMJhgB7SOwIMIQA/6o",
     "type":"GccN9vKO8I/bIv7FOITSFq38w5nJaRqm0qmPP3c4Kw0L1BsW/ZVPw5srLUQON0LvDjrUISJ5TiU=",
-    "appreciate":1,
-    "info":"更新日志：\n1.修复 LOL直播闪退问题\n2.修复 弹幕中断，切换直播间换台等问题\n使用技巧\n首页【菜单键】可以启动搜索界面\n播放页【下键】可以打开弹幕开关、清晰度和解码切换\n播放页【菜单键】可以配置弹幕的大小、透明度、弹幕行数以及视频渲染\n安卓4.4 且下载版本小于1.0.24，无法在线升级，请下载最新版本。"
+    "appreciate":0,
+    "info":"更新日志：\n1.修复 订阅界面点击直播间奔溃的问题\n2.修复 安卓4.4无法播放的问题\n使用技巧\n首页【菜单键】可以启动搜索界面\n播放页【下键】可以打开弹幕开关、清晰度和解码切换\n播放页【菜单键】可以配置弹幕的大小、透明度、弹幕行数以及视频渲染\n安卓4.4 且下载版本小于1.0.24，无法在线升级，请下载最新版本。"
 }

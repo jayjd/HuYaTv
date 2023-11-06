@@ -1,5 +1,5 @@
 # HuYaTv
-[![API](https://img.shields.io/badge/API-19~33%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=19)
+[![API](https://img.shields.io/badge/API-19%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=19)
 [![Download](https://img.shields.io/github/v/release/jayjd/huyatv?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/jayjd/huyatv/releases/latest)
 [![Total](https://shields.io/github/downloads/jayjd/huyatv/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/jayjd/huyatv/releases)
 ![GitHub stars](https://img.shields.io/github/stars/jayjd/huyatv?style=social)

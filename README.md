@@ -9,9 +9,7 @@
 QQ频道🔗 **[点击加入](https://pd.qq.com/s/ajih400ke)** 
 
 下载地址🔗 **[下载地址](https://github.com/jayjd/huyatv/releases/latest)**
-
-![微信图片_20230531082441](https://github.com/jayjd/HuYaTv/assets/15134709/85d61c64-4e72-443e-96ee-e6f7d6551e87)
-
+![pindao](https://github.com/jayjd/HuYaTv/assets/15134709/9c9dfe46-0e88-4bff-a6ac-7d7b9016f502)
 # 软件截图
 ### 2.0版本截图
 ![Screenshot_20240125_090207](https://github.com/jayjd/HuYaTv/assets/15134709/c6d58c01-9c3e-4bda-bbc9-c9c5728dd068)

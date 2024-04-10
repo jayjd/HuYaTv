@@ -3,7 +3,7 @@
 [![Download](https://img.shields.io/github/v/release/jayjd/huyatv?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/jayjd/huyatv/releases/latest)
 [![Total](https://shields.io/github/downloads/jayjd/huyatv/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/jayjd/huyatv/releases)
 ![GitHub stars](https://img.shields.io/github/stars/jayjd/huyatv?style=social)
-### 一个第三方虎牙和抖音TV客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，所有的内容均来源于虎牙网页端，本人不对内容负责。本人不会收集你的个人信息。
+### 一个第三方聚合直播TV客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，所有的内容均来源于虎牙网页端，本人不对内容负责。本人不会收集你的个人信息。
 ### 软件仅供交流学习，请于下载后的 24 小时内卸载！
 # QQ反馈交流群
 QQ频道🔗 **[点击加入](https://pd.qq.com/s/ajih400ke)** 

@@ -16,7 +16,7 @@
 | YY（开发中）                         |✅|❌|❌|✅|✅|❌|
 
 # QQ反馈交流群
-QQ频道🔗 **[点击加入](https://pd.qq.com/s/ajih400ke)** 
+QQ频道&测试版优先尝鲜体验🔗 **[点击加入](https://pd.qq.com/s/ajih400ke)** 
 
 下载地址🔗 **[下载地址](https://github.com/jayjd/huyatv/releases/latest)**
 ![pindao](https://github.com/jayjd/HuYaTv/assets/15134709/9c9dfe46-0e88-4bff-a6ac-7d7b9016f502)

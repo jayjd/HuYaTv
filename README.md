@@ -1,5 +1,8 @@
 <div align="center"> 
-    <h1>HuYa</h1>
+
+![ic_channel](https://github.com/user-attachments/assets/889d6081-8191-45ca-acb4-4e9cf2267efc)
+
+<h1>HuYa</h1>
 </div>
 <div align="center">
   

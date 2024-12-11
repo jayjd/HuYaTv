@@ -68,5 +68,5 @@ QQ频道&测试版优先尝鲜体验🔗 **[点击加入](https://pd.qq.com/s/aj
 
 
 ## ？？？
-[![Stargazers over time](https://starchart.cc/jayjd/HuYaTv.svg)](https://starchart.cc/jayjd/HuYaTv)
+[![Stargazers over time](https://starchart.cc/jayjd/HuYaTv.svg?variant=adaptive)](https://starchart.cc/jayjd/HuYaTv)
 

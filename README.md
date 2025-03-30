@@ -1,8 +1,17 @@
 <div align="center"> 
 
 ![ic_channel](https://github.com/user-attachments/assets/889d6081-8191-45ca-acb4-4e9cf2267efc)
-
-<h1>HuYa</h1>
+<h1>
+<a href="https://jayjd.github.io" 
+           style="display: inline-flex; align-items: center; 
+                  padding: 8px 16px; margin: 8px;
+                  background-color: #4CAF50; color: white;
+                  border-radius: 4px; text-decoration: none;
+                  transition: background-color 0.3s ease;"
+           onmouseover="this.style.backgroundColor='#45a049'"
+           onmouseout="this.style.backgroundColor='#4CAF50'">
+           聚合直播（HuYa） 🏠 软件主页
+        </a></h1>
 </div>
 <div align="center">
   

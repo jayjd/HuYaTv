@@ -10,7 +10,7 @@
                   transition: background-color 0.3s ease;"
            onmouseover="this.style.backgroundColor='#45a049'"
            onmouseout="this.style.backgroundColor='#4CAF50'">
-           聚合直播（HuYa） 🏠 软件主页
+           聚合直播-FUSE（原HuYa） 🏠 软件主页
         </a></h1>
 </div>
 <div align="center">

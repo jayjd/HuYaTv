@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![ic_channel]([https://github.com/user-attachments/assets/889d6081-8191-45ca-acb4-4e9cf2267efc](https://jayjd.github.io/assets/img/ic_banner.png))
+![ic_channel](https://jayjd.github.io/assets/img/ic_banner.png)
 
 <h1>
 <a href="https://jayjd.github.io" 

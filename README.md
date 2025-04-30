@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![ic_channel](https://jayjd.github.io/assets/img/ic_banner.png)
+<img src='https://jayjd.github.io/assets/img/ic_banner.png' />
 
 <h1>
 <a href="https://jayjd.github.io" 

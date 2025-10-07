@@ -16,9 +16,9 @@
 </div>
 <div align="center">
   
-[![API](https://img.shields.io/badge/Android%205.0+-orange.svg?color=orange&logoColor=orange&label=%E6%94%AF%E6%8C%81%E5%AE%89%E5%8D%93%E7%89%88%E6%9C%AC&logo=Android)](https://github.com/jayjd/huyatv/releases/latest)
-[![Releases](https://img.shields.io/github/v/release/jayjd/huyatv?color=blue&logoColor=blue&label=Releases&logo=DocuSign)](https://github.com/jayjd/huyatv/releases/latest)
-[![Download](https://shields.io/github/downloads/jayjd/huyatv/total?logo=Bookmeter&label=Download&logoColor=yellow&color=yellow)](https://github.com/jayjd/huyatv/releases/latest)
+[![API](https://img.shields.io/badge/5.0+-orange.svg?color=orange&logoColor=orange&label=%E6%94%AF%E6%8C%81%E7%89%88%E6%9C%AC&logo=Android)](https://github.com/jayjd/huyatv/releases/latest)
+[![Releases](https://img.shields.io/github/v/release/jayjd/huyatv?color=blue&logoColor=blue&label=发行版本&logo=DocuSign)](https://github.com/jayjd/huyatv/releases/latest)
+[![Download](https://shields.io/github/downloads/jayjd/huyatv/total?logo=Bookmeter&label=下载次数&logoColor=yellow&color=yellow)](https://github.com/jayjd/huyatv/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/jayjd/huyatv?style=social)](https://github.com/jayjd/huyatv/releases/latest)
   
 </div>

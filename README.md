@@ -39,16 +39,23 @@
 | Twitch                         |✅|❌|✅|✅|✅|❌|
 
 
-# QQ反馈交流群
+# 社区交流
 QQ频道&测试版优先尝鲜体验🔗 **[点击加入](https://pd.qq.com/s/ajih400ke)**
-
-下载地址🔗 **[下载地址](https://github.com/jayjd/huyatv/releases/latest)**
+# 下载地址 
+## [诚通网盘](https://url73.ctfile.com/d/7244173-154622274-eaf553?p=9765) | [百度网盘](https://pan.baidu.com/s/1l9xR6bUR1OkNmsqT4G_xPA?dp-logid=36032000694008480002&pwd=qsxp) | [迅雷网盘](https://pan.xunlei.com/s/VOamYLva7FobphNhKkicEXkiA1?pwd=y9yw)
+----------
+为保持项目的继续开发，使用网盘，还望大家海涵！谢谢！
+欢迎捐赠作者。作者会更积极的维护此项目！
+----------
 # 软件截图
+## 3.0版本截图
+| ![Screenshot_20240125_090207](https://free.picui.cn/free/2025/04/15/67fdfd436c804.png) | ![Screenshot_20240125_090330](https://free.picui.cn/free/2025/04/15/67fdfd4123ffd.png) | ![Screenshot_20240125_090316](https://free.picui.cn/free/2025/04/15/67fdfd40f31b8.png) |
+| ---- | ---- | ---- |
+| ![Screenshot_20240125_090305](https://free.picui.cn/free/2025/04/15/67fdfd4100be9.png) | ![Screenshot_20240125_090256](https://free.picui.cn/free/2025/04/15/67fdfd4124231.png) | ![Screenshot_20240125_090246](https://free.picui.cn/free/2025/04/15/67fdfd410cf6d.png) |
 ## 2.0版本截图
 | ![Screenshot_20240125_090207](https://github.com/jayjd/HuYaTv/assets/15134709/c6d58c01-9c3e-4bda-bbc9-c9c5728dd068) | ![Screenshot_20240125_090330](https://github.com/jayjd/HuYaTv/assets/15134709/bddf1e77-c503-46b6-bf5c-c7997e35a742) | ![Screenshot_20240125_090316](https://github.com/jayjd/HuYaTv/assets/15134709/1f620fab-1c60-4f34-be15-34c248c13c18) |
 | ---- | ---- | ---- |
 | ![Screenshot_20240125_090305](https://github.com/jayjd/HuYaTv/assets/15134709/692b8dd5-278a-480f-85ba-bdc7a6a2220d) | ![Screenshot_20240125_090256](https://github.com/jayjd/HuYaTv/assets/15134709/0b7fc632-31e8-4f61-9f0c-b8a9167b361a) | ![Screenshot_20240125_090246](https://github.com/jayjd/HuYaTv/assets/15134709/730ffd50-b14e-43db-9c7a-6ebe3c2a4f3d) |
-| ![Screenshot_20240125_090229](https://github.com/jayjd/HuYaTv/assets/15134709/1dc21677-6fe3-4179-8e2c-ed32422b8dc9) |
 ## 1.0版本截图
 | ![Screenshot_20230714_133126](https://github.com/jayjd/HuYaTv/assets/15134709/69ccfe05-1189-4d0c-9fb8-725481539559) | ![Screenshot_20230714_133202](https://github.com/jayjd/HuYaTv/assets/15134709/720d1b15-4685-4892-a7b8-caed3a664b0d) | ![Screenshot_20230714_133230](https://github.com/jayjd/HuYaTv/assets/15134709/7734e7d4-3d05-4c17-b1dc-e9f5838303e9) |
 | ---- | ---- | ---- |

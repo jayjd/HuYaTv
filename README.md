@@ -42,7 +42,7 @@
 # 社区交流
 QQ频道&测试版优先尝鲜体验🔗 **[点击加入](https://pd.qq.com/s/ajih400ke)**
 # 下载地址 
-##  [百度网盘](https://pan.baidu.com/s/1l9xR6bUR1OkNmsqT4G_xPA?dp-logid=36032000694008480002&pwd=qsxp) | [迅雷网盘](https://pan.xunlei.com/s/VOamYLva7FobphNhKkicEXkiA1?pwd=y9yw) | ［UC 网盘](https://drive.uc.cn/s/5494e6592b3a4) | [诚通网盘](https://url73.ctfile.com/d/7244173-154622274-eaf553?p=9765) 
+##  [百度网盘](https://pan.baidu.com/s/1l9xR6bUR1OkNmsqT4G_xPA?dp-logid=36032000694008480002&pwd=qsxp) | [迅雷网盘](https://pan.xunlei.com/s/VOamYLva7FobphNhKkicEXkiA1?pwd=y9yw) | [UC网盘](https://drive.uc.cn/s/5494e6592b3a4) | [诚通网盘](https://url73.ctfile.com/d/7244173-154622274-eaf553?p=9765) 
 ----------
 为保持项目的继续开发，使用网盘，还望大家海涵！谢谢！
 欢迎捐赠作者。作者会更积极的维护此项目！

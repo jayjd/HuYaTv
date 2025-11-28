@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src='https://jayjd.github.io/assets/img/ic_banner.png' />
+<img src='https://jayjd.github.io/assets/img/ic_banner.png' style="border-radius: 20px;" />
 
 <h1>
 <a href="https://jayjd.github.io" 

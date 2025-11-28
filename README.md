@@ -36,6 +36,9 @@
 <a href='https://pan.quark.cn/s/6d516735d999?pwd=X2UY'><img align='center' alt='KUAKE' src='https://img.shields.io/badge/build-%E5%A4%B8%E5%85%8B-badge?style=for-the-badge&label=%E4%B8%8B%E8%BD%BD&color=73f8a1'></a> 
 <a href='https://drive.uc.cn/s/5494e6592b3a4'><img align='center' alt='UC' src='https://img.shields.io/badge/build-UC-badge?style=for-the-badge&label=%E4%B8%8B%E8%BD%BD&color=ff8400'></a>
 
+### 为保持项目的继续开发，使用网盘，还望大家海涵！谢谢！
+### 欢迎捐赠作者。作者会更积极的维护此项目！
+
 # 支持平台
 
 
@@ -50,9 +53,7 @@
 | YY | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
 | Twitch | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ |
 
-----------
-为保持项目的继续开发，使用网盘，还望大家海涵！谢谢！
-欢迎捐赠作者。作者会更积极的维护此项目！
+
 ----------
 # 软件截图
 ## 3.0版本截图

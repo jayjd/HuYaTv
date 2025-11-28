@@ -1,31 +1,19 @@
 <div align="center"> 
-
-<img src='https://jayjd.github.io/assets/img/ic_banner.png' style="border-radius: 20px;" />
-
-<h1>
-<a href="https://jayjd.github.io" 
-           style="display: inline-flex; align-items: center; 
-                  padding: 8px 16px; margin: 8px;
-                  background-color: #4CAF50; color: white;
-                  border-radius: 4px; text-decoration: none;
-                  transition: background-color 0.3s ease;"
-           onmouseover="this.style.backgroundColor='#45a049'"
-           onmouseout="this.style.backgroundColor='#4CAF50'">
-           聚合直播-FUSE（原HuYa） 🏠 软件主页
-        </a></h1>
-</div>
-<div align="center">
-  
+           
+# 聚合直播(FUSE) 
+### 多平台游戏直播聚合神器 | 电视手机车机全终端支持
+[![HOME](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E4%B8%BB%E9%A1%B5-badge?style=for-the-badge&logo=github&label=%E7%82%B9%E5%87%BB%E8%BF%9B%E5%85%A5&color=97ca00)](https://jayjd.github.io)
 [![API](https://img.shields.io/badge/build-5.0+-badge?style=for-the-badge&color=orange&logoColor=orange&label=%E6%94%AF%E6%8C%81%E7%89%88%E6%9C%AC&logo=Android)](https://github.com/jayjd/huyatv/releases/latest)
+
 [![Releases](https://img.shields.io/github/v/release/jayjd/huyatv?color=blue&logoColor=blue&label=%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC&style=for-the-badge)](https://github.com/jayjd/huyatv/releases/latest)
 [![Download](https://shields.io/github/downloads/jayjd/huyatv/total?logo=Bookmeter&label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&logoColor=yellow&color=yellow&style=for-the-badge)](https://github.com/jayjd/huyatv/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/jayjd/huyatv?style=for-the-badge)](https://github.com/jayjd/huyatv/releases/latest)
   
 </div>
 
-## FUSE:一个聚合直播TV客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，所有的内容均来源于网页端，本人不对内容负责。本人不会收集你的个人信息。
-## 软件仅供交流学习，请于下载后的 24 小时内卸载！
-## 如果本项目存在侵犯您的合法权益的情况，请及时与开发者联系，开发者将会及时删除有关内容。
+### FUSE:一个聚合直播TV客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，所有的内容均来源于网页端，本人不对内容负责。本人不会收集你的个人信息。
+### 软件仅供交流学习，请于下载后的 24 小时内卸载！
+### 如果本项目存在侵犯您的合法权益的情况，请及时与开发者联系，开发者将会及时删除有关内容。
 # 社区交流
 <a href='https://pd.qq.com/s/ajih400ke'><img align='center' alt='QQ' src='https://img.shields.io/badge/build-%E6%8A%A2%E9%B2%9C%E4%BD%93%E9%AA%8C-badge?style=for-the-badge&logo=qq&label=%E8%85%BE%E8%AE%AF%E9%A2%91%E9%81%93&logoColor=white&color=blue'></a>
 <a href='https://discord.gg/fxR6cnkt7'><img align='center' alt='DISCORD' src='https://img.shields.io/badge/build-%E7%AB%8B%E5%8D%B3%E5%8A%A0%E5%85%A5-badge?style=for-the-badge&logo=DISCORD&label=DISCORD&logoColor=white&color=purple'></a>

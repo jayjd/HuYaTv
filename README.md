@@ -43,22 +43,21 @@
 
 
 ----------
-# 软件截图
-## 3.0版本截图
+# 3.0版本截图
 | ![Screenshot_20240125_090207](https://free.picui.cn/free/2025/04/15/67fdfd436c804.png) | ![Screenshot_20240125_090330](https://free.picui.cn/free/2025/04/15/67fdfd4123ffd.png) | ![Screenshot_20240125_090316](https://free.picui.cn/free/2025/04/15/67fdfd40f31b8.png) |
 | ---- | ---- | ---- |
 | ![Screenshot_20240125_090305](https://free.picui.cn/free/2025/04/15/67fdfd4100be9.png) | ![Screenshot_20240125_090256](https://free.picui.cn/free/2025/04/15/67fdfd4124231.png) | ![Screenshot_20240125_090246](https://free.picui.cn/free/2025/04/15/67fdfd410cf6d.png) |
-## 2.0版本截图
+# 2.0版本截图
 | ![Screenshot_20240125_090207](https://github.com/jayjd/HuYaTv/assets/15134709/c6d58c01-9c3e-4bda-bbc9-c9c5728dd068) | ![Screenshot_20240125_090330](https://github.com/jayjd/HuYaTv/assets/15134709/bddf1e77-c503-46b6-bf5c-c7997e35a742) | ![Screenshot_20240125_090316](https://github.com/jayjd/HuYaTv/assets/15134709/1f620fab-1c60-4f34-be15-34c248c13c18) |
 | ---- | ---- | ---- |
 | ![Screenshot_20240125_090305](https://github.com/jayjd/HuYaTv/assets/15134709/692b8dd5-278a-480f-85ba-bdc7a6a2220d) | ![Screenshot_20240125_090256](https://github.com/jayjd/HuYaTv/assets/15134709/0b7fc632-31e8-4f61-9f0c-b8a9167b361a) | ![Screenshot_20240125_090246](https://github.com/jayjd/HuYaTv/assets/15134709/730ffd50-b14e-43db-9c7a-6ebe3c2a4f3d) |
-## 1.0版本截图
+# 1.0版本截图
 | ![Screenshot_20230714_133126](https://github.com/jayjd/HuYaTv/assets/15134709/69ccfe05-1189-4d0c-9fb8-725481539559) | ![Screenshot_20230714_133202](https://github.com/jayjd/HuYaTv/assets/15134709/720d1b15-4685-4892-a7b8-caed3a664b0d) | ![Screenshot_20230714_133230](https://github.com/jayjd/HuYaTv/assets/15134709/7734e7d4-3d05-4c17-b1dc-e9f5838303e9) |
 | ---- | ---- | ---- |
 | ![Screenshot_20230518_152636](https://github.com/jayjd/HuYaTv/assets/15134709/28362523-c3bd-4a7c-8b8e-28e591599df4) | ![Screenshot_20230518_152654](https://github.com/jayjd/HuYaTv/assets/15134709/868a4d3e-d9bb-4a15-8fe8-27ab2f95e48b) | ![Screenshot_20230518_152710](https://github.com/jayjd/HuYaTv/assets/15134709/213de232-8e61-4fef-bfd3-87b8f345d1fe) |
 | ![Screenshot_20230517_152159](https://github.com/jayjd/HuYaTv/assets/15134709/ab5506f0-e002-45ae-adde-1c94e935ab9d) | ![Screenshot_20230517_152231](https://github.com/jayjd/HuYaTv/assets/15134709/5e27cb96-ad59-447c-89ba-d57a240bcd1e) | ![Screenshot_20230517_152251](https://github.com/jayjd/HuYaTv/assets/15134709/82b51eb7-ec66-4266-af7d-eb5be64ef855) |
 
 
-## ？？？
+# ？？？
 [![Stargazers over time](https://starchart.cc/jayjd/HuYaTv.svg?variant=adaptive)](https://starchart.cc/jayjd/HuYaTv)
 

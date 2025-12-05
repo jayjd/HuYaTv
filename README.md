@@ -4,7 +4,7 @@
 ### 多平台游戏直播聚合神器 | 电视手机车机全终端支持
 [![HOME](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E4%B8%BB%E9%A1%B5-badge?style=for-the-badge&logo=github&label=%E7%82%B9%E5%87%BB%E8%BF%9B%E5%85%A5&color=97ca00)](https://jayjd.github.io)
 [![API](https://img.shields.io/badge/build-5.0+-badge?style=for-the-badge&color=orange&logoColor=orange&label=%E6%94%AF%E6%8C%81%E7%89%88%E6%9C%AC&logo=Android)](https://github.com/jayjd/huyatv/releases/latest)
-[![API](https://img.shields.io/github/v/release/jayjd/huyatv?include_prereleases&display_name=tag&style=for-the-badge&label=4.4%E4%B8%93%E7%94%A8%E7%89%88)](https://github.com/jayjd/HuYaTv/releases/tag/2.1.25.4)
+[![API](https://img.shields.io/badge/build-v2.1.25.4-badge?&style=for-the-badge&label=4.4%E4%B8%93%E7%94%A8%E7%89%88)](https://github.com/jayjd/HuYaTv/releases/tag/2.1.25.4)
 
 [![Releases](https://img.shields.io/github/v/release/jayjd/huyatv?color=blue&logoColor=blue&label=%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC&style=for-the-badge)](https://github.com/jayjd/huyatv/releases/latest)
 [![Download](https://shields.io/github/downloads/jayjd/huyatv/total?logo=Bookmeter&label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&logoColor=yellow&color=yellow&style=for-the-badge)](https://github.com/jayjd/huyatv/releases/latest)

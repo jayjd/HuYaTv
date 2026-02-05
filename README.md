@@ -5,8 +5,8 @@
 [![HOME](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E4%B8%BB%E9%A1%B5-badge?style=for-the-badge&logo=github&label=%E7%82%B9%E5%87%BB%E8%BF%9B%E5%85%A5&color=97ca00)](https://jayjd.github.io)
 
 [![Releases](https://img.shields.io/github/v/release/jayjd/huyatv?color=blue&logoColor=blue&label=6.0以上设备&style=for-the-badge)](https://github.com/jayjd/huyatv/releases/latest)
-[![API](https://img.shields.io/badge/build-v3.0.23-badge?&style=for-the-badge&label=5.0%E4%B8%93%E7%94%A8%E7%89%88)](https://github.com/jayjd/HuYaTv/releases/tag/3.0.23)
-[![API](https://img.shields.io/badge/build-v2.1.25.4-badge?&style=for-the-badge&label=4.4%E4%B8%93%E7%94%A8%E7%89%88)](https://github.com/jayjd/HuYaTv/releases/tag/2.1.25.4)
+[![API](https://img.shields.io/badge/build-v3.0.23.1-badge?&style=for-the-badge&label=5.0%E4%B8%93%E7%94%A8%E7%89%88)](https://github.com/jayjd/HuYaTv/releases/tag/3.0.23)
+[![API](https://img.shields.io/badge/build-v2.1.25.5-badge?&style=for-the-badge&label=4.4%E4%B8%93%E7%94%A8%E7%89%88)](https://github.com/jayjd/HuYaTv/releases/tag/2.1.25.4)
 
 [![Download](https://shields.io/github/downloads/jayjd/huyatv/total?logo=Bookmeter&label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&logoColor=yellow&color=yellow&style=for-the-badge)](https://github.com/jayjd/huyatv/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/jayjd/huyatv?style=for-the-badge)](https://github.com/jayjd/huyatv/releases/latest)
